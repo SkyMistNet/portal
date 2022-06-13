@@ -8,7 +8,7 @@ A lightweight transfer proxy written in Go for Minecraft: Bedrock Edition.
    the [GitHub releases page](https://github.com/Paroxity/portal/releases/)
 2. Move it to a directory of your choice, and run from the command line.
 
-*Note for Linux/macOS users: run `chmod +x` on the binary to make it executable.*
+*Note for Linux/macOS users: run `chmod +x` on the binary to make it executable*
 
 # Configuration
 
